@@ -1,8 +1,8 @@
-<img  src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100vw">
+
 <h1 align="center">Hi 👋, I'm Dipesh Raval</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img alt="Coder" align="center" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<img  alt="Coder" align="center" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DipeshRaval" alt="DipeshRaval" /> </p>
 
@@ -23,7 +23,7 @@
  <a href="dipeshraval0007@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/646/646094.png" alt="DipeshRaval" height="40" width="40" />
  </a>
 </p>
-<h3><a href="https://javidsumra.github.io/Portfolio/Main.html">Portfolio</a></h3>
+<h3><a href="https://dipeshraval.github.io/DjRaval-Portfolio/">Portfolio</a></h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
