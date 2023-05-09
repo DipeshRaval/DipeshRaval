@@ -27,13 +27,13 @@
 <h3><a href="https://dipeshraval.github.io/DjRaval-Portfolio/">Portfolio</a></h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  
-  <h4 align="left">Initial Learning: </h4>
+ <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40"    height="40"/> 
+   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a>
-    <h4 align="left">Web Development: </h4>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -44,15 +44,12 @@
   <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> 
    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a>
-    <h4 align="left">Backend: </h4>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="nodejs" width="40" height="40"/> </a>
-     <h4 align="left">DataBase: </h4>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a>
      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postgresql" alt="posgresql" width="40" height="40"/> </a>
-    <h4 align="left">Currently Learning: </h4>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
