@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Android Devlopment,Java,React js**
 
-- 🤝 I’m looking for help with **SLMS System**
-
 - 💬 Ask me about **HTML,CSS,JS,C,C++,Node Js,React js,Ruby,Ruby on Rails,Java**
 
 - 📫 How to reach me **dipeshraval0007@gmail.com**
@@ -22,6 +20,9 @@
 </a>
  <a href="dipeshraval0007@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/646/646094.png" alt="DipeshRaval" height="40" width="40" />
  </a>
+<a href="https://www.linkedin.com/in/dipesh-raval-0a9000215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DipeshRaval" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dipu_raval_07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="DipeshRaval" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dipeshraval0007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="DipeshRaval" height="30" width="40" /></a>
 </p>
 <h3><a href="https://dipeshraval.github.io/DjRaval-Portfolio/">Portfolio</a></h3>
 <h3 align="left">Languages and Tools:</h3>
